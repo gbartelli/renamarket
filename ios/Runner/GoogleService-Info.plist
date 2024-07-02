@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBnspfloLFm_ubwiMCYD_oM4VhIa0C_5sI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946843573199</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.semcodar.tutorialffyt</string>
+	<key>PROJECT_ID</key>
+	<string>renamarket2teste</string>
+	<key>STORAGE_BUCKET</key>
+	<string>renamarket2teste.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946843573199:ios:4da66fb119ab6ebd5710ba</string>
+</dict>
+</plist>
