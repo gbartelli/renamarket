@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946843573199",
+    "project_id": "renamarket2teste",
+    "storage_bucket": "renamarket2teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946843573199:android:11c627ccc93de88a5710ba",
+        "android_client_info": {
+          "package_name": "com.semcodar.tutorialffyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj55cZ619RrZ-mWY3iyFetJQem8Y5tg7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
